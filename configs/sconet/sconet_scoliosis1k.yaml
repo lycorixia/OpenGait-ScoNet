@@ -1,7 +1,7 @@
 data_cfg:
   dataset_name: Scoliosis1K
-  dataset_root: your_path_of_Scoliosis1K-Released-pkl
-  dataset_partition: ./datasets/Scoliosis1K/Scoliosis1K_***.json
+  dataset_root: C:\Users\arina\OneDrive\Documents\Reproduce_Paper\OpenGait\datasets\Scoliosis1K-sil-pkl\Scoliosis1K-sil-pkl
+  dataset_partition: ./datasets/Scoliosis1K/Scoliosis1K_118.json
   num_workers: 1
   remove_no_gallery: false # Remove probe if no gallery for it
   test_dataset_name: Scoliosis1K

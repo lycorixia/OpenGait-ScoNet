@@ -4,10 +4,15 @@ __pycache__/
 *$py.class
 
 # configuration
-./config/*
+# ./config/*
+
+# datasets
+datasets/
+dataset/
 
 # checkpoint
 *.pt
+*.pth
 
 # summary
 events.out.tfevents.*
